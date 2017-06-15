@@ -1,5 +1,6 @@
 from sys import argv
 
+# calculates area of a triangle
 def calculateArea(base, height):
 	print("Calculating area...")
     return (base*height)/2
