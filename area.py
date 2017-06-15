@@ -1,6 +1,7 @@
 from sys import argv
 
 def calculateArea(base, height):
+	print("Calculating area...")
     return (base*height)/2
 
 
